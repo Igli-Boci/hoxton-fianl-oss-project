@@ -8,6 +8,6 @@ td i {
     cursor: pointer;
 }
 
-t {
+td {
     color: var(--primary-color);
 }
